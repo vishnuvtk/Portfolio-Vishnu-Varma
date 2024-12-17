@@ -1,5 +1,1 @@
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
+This responsive personal portfolio website is designed using HTML, CSS, and JavaScript, offering a visually appealing and user-friendly interface. It features smooth scrolling for seamless navigation between sections and engaging animations that activate as you scroll. Fully optimized for compatibility with all mobile devices, it ensures a pleasant browsing experience across various platforms.
